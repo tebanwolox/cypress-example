@@ -1,0 +1,3 @@
+# cypress-example
+
+npm install
